@@ -15,4 +15,5 @@ const products = [
 
 module.exports = () => {
   // Código aqui
+  return 1;
 }
